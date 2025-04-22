@@ -34,3 +34,7 @@ netflix-data-analysis/
 ├── requirements.txt
 └── README.md
 ```
+## 📓 View Final Analysis Notebook
+
+You can view the complete Jupyter notebook here:  
+👉 [netflix_analysis.ipynb](./netflix_analysis.ipynb)
