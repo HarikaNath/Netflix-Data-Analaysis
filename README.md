@@ -17,7 +17,7 @@ This project performs exploratory and predictive data analysis on Netflix titles
 - Python, Pandas, NumPy
 - Seaborn, Matplotlib
 - Scikit-learn
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook
 
 ## Folder Structure
 
